@@ -83,7 +83,7 @@ button.toast-close-button {
   right: 12px;
 }
 .toast-bottom-right {
-  right: 12px;
+  right: 0px;
   bottom: 12px;
 }
 .toast-bottom-center {
@@ -241,7 +241,6 @@ button.toast-close-button {
 :not(.no-enter)#toast-container > div.ng-enter,
 :not(.no-leave)#toast-container > div.ng-leave
 {
-
 
 
 }
