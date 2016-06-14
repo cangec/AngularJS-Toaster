@@ -174,7 +174,7 @@ button.toast-close-button {
 }
 
 #toast-container > .toast-success:before {
-  content: "\ea34";
+  content: "\ea16";
   color:#2f96b4;
 }
 
